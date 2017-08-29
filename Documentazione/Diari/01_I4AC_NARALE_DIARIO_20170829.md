@@ -11,7 +11,7 @@ Nel pomeriggio ho iniziato a leggere i vari punti nel **quaderno dei compiti** p
 ed ho iniziato a redigere la **documentazione di progettazione** (almeno il minimo).
 
 
-Per la parte di implementazione, ho già preso in considerazione (sperando che al committente andrà bene) di usare un framework PHP che si chiama **Laravel**: ho già una vasta conoscenza di esso, per quanto l'ho studiato e ci ho già sviluppato per parecchi mesi.
+Per la parte di implementazione, ho già preso in considerazione (sperando che al committente andrà bene) di usare un framework PHP che si chiama [**Laravel**](https://laravel.com/): ho già una vasta conoscenza di esso, per quanto l'ho studiato e ci ho già sviluppato per parecchi mesi.
 
 Il motivo principale è la facilità nell'iniziare subito con una base solida (se lo si conosce già) che riduce di molto il lavoro manuale di templating (in PHP) restando comunque sia completamente configurabile. Questo mi renderà avvantaggiato e mi farà guadagnare tempo per completare l'intero lavoro (partendo pure da zero) date le difficoltà.
 
