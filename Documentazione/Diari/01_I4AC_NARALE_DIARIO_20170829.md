@@ -1,8 +1,8 @@
-# Diario - Gestione Qualifica dell’insegnamento - Nr. 1
+# Diario di lavoro - Gestione Qualifica dell’insegnamento
 
 | Luogo        | Data           |
 | ------------- |:-------------:|
-| Trevano      | 29.08.2016 |
+| 6952 Canobbio - Trevano | 29.08.2016 |
 
 ## Lavori svolti
 Nella mattinata ho scelto questo progetto dopo aver parlato anche con i professori delle regole e sullo svolgersi di esso.
