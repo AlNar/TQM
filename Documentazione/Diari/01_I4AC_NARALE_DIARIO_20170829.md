@@ -16,8 +16,10 @@ Per la parte di implementazione, ho già preso in considerazione (sperando che a
 Il motivo principale è la facilità nell'iniziare subito con una base solida (se lo si conosce già) che riduce di molto il lavoro manuale di templating (in PHP) restando comunque sia completamente configurabile. Questo mi renderà avvantaggiato e mi farà guadagnare tempo per completare l'intero lavoro (partendo pure da zero) date le difficoltà.
 
 ## Problemi riscontrati / soluzioni
+Nessun problema riscontrato.
 
 ## Punto della situazione rispetto alla pianificazione
+La pianificazione è ancora da fare.
 
 ## Programma di massima per la prossima giornata
 Continuare a vedere il QdC ed iniziare la stesura del campo di "lavoro".
